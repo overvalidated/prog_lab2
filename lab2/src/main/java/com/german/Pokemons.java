@@ -18,7 +18,7 @@ class Diancie extends Pokemon {
                 new RockSlide(),
                 new Swagger());
     }
-    
+
 }
 
 class Eevee extends Pokemon {
@@ -43,6 +43,7 @@ class Espeon extends Pokemon {
                 new WorkUp(), 
                 new DreamEater());
     }
+
 }
 
 class Bounsweet extends Pokemon {
@@ -53,6 +54,7 @@ class Bounsweet extends Pokemon {
         setMove(new TeeterDance(),
                 new Swagger());
     }
+
 }
 
 class Steenee extends Pokemon {
@@ -64,6 +66,7 @@ class Steenee extends Pokemon {
                 new Swagger(),
                 new PlayNice());
     }
+
 }
 
 class Tsareena extends Pokemon {
@@ -76,4 +79,5 @@ class Tsareena extends Pokemon {
                 new PlayNice(),
                 new Rest());
     }
+    
 }
