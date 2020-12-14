@@ -1,7 +1,3 @@
-/** Class for Diancie pokemon.
- * @author German Beyger
-*/
-
 package com.german;
 
 import ru.ifmo.se.pokemon.Pokemon;
@@ -79,5 +75,5 @@ class Tsareena extends Pokemon {
                 new PlayNice(),
                 new Rest());
     }
-    
+
 }

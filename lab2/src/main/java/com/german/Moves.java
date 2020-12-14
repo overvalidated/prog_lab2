@@ -1,6 +1,5 @@
 package com.german;
 
-import java.lang.String;
 import java.lang.Math;
 import ru.ifmo.se.pokemon.Pokemon;
 import ru.ifmo.se.pokemon.SpecialMove;

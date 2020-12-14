@@ -1,4 +1,5 @@
 package com.german;
+
 import ru.ifmo.se.pokemon.Battle;
 import ru.ifmo.se.pokemon.Pokemon;
 
