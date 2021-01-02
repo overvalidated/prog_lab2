@@ -2,6 +2,13 @@ package com.german;
 
 import ru.ifmo.se.pokemon.Battle;
 import ru.ifmo.se.pokemon.Pokemon;
+import com.german.moves.*;
+import com.german.pokemons.Diancie;
+import com.german.pokemons.Eevee;
+import com.german.pokemons.Espeon;
+import com.german.pokemons.Bounsweet;
+import com.german.pokemons.Steenee;
+import com.german.pokemons.Tsareena;
 
 public class App 
 {
